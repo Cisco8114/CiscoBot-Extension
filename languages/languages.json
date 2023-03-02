@@ -1,0 +1,57 @@
+[
+    {
+        "label": "English",
+        "description": "English.",
+        "value": "english"
+    },
+    {
+        "label": "Spanish",
+        "description": "Espanol.",
+        "value": "spanish"
+    },
+    {
+        "label": "German",
+        "description": "Deutsch.",
+        "value": "german"
+    },
+    {
+        "label": "Polish",
+        "description": "Polski.",
+        "value": "polish"
+    },
+    {
+        "label": "Korean",
+        "description": "한국인.",
+        "value": "korean"
+    },
+    {
+        "label": "Arabic",
+        "description": "عربي.",
+        "value": "arabic"
+    },
+    {
+        "label": "French",
+        "description": "Français.",
+        "value": "french"
+    },
+    {
+        "label": "Hindi",
+        "description": "हिन्दी.",
+        "value": "hindi"
+    },
+    {
+        "label": "Irish",
+        "description": "Gaeilge.",
+        "value": "irish"
+    },
+    {
+        "label": "Turkish",
+        "description": "Türk.",
+        "value": "turkish"
+    },
+    {
+        "label": "Danish",
+        "description": "Denmarkian.",
+        "value": "danish"
+    }
+]
