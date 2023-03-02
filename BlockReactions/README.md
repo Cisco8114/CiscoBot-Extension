@@ -4,4 +4,4 @@ This is a simple extension that allows you to block users from reacting to messa
 (compatible with 1.3)
 
 # Credits
-- [@Hyperz](https://store.hyperz.net/discord) - *Phyiscal Programming.*
+- [@Cisco](https://store.ciscomodifications.com/discord) - *Phyiscal Programming.*
