@@ -11,10 +11,10 @@ This lets you view ticket transcripts in a web browser.
           if (err) console.log(err);
       })
 ```
-- Restart Darkbot.
+- Restart CiscoBot.
 
 # Routes
 - `/tickets/ticket-{channelId}.html` = Lets you view the ticket in a web browser.
 
 # Credits
-- [@weirdbandkid](https://github.com/weirdbandkid)
+- [@Cisco Modifications](https://github.com/CiscoModifications)
