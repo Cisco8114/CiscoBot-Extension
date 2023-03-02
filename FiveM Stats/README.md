@@ -1,5 +1,5 @@
 # FiveM Status 
-You can ignore the `(node:21232) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 connect listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit` errors as these do not seem to be actual memory leaks. If you know how to fix that please tell [me](https://github.com/weirdbandkid)
+You can ignore the `(node:21232) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 connect listeners added to [Socket]. Use emitter.setMaxListeners() to increase limit` errors as these do not seem to be actual memory leaks. If you know how to fix that please tell [me](https://github.com/CiscoModifications)
 
 To get started, you will need to install a package called Gamedig
 ```
