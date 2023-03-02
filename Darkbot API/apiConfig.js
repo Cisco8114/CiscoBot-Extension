@@ -8,7 +8,7 @@ const _config = {
     },
 
     redirects: [
-        { name: `discord`, link: `https://store.hyperz.net/discord` }
+        { name: `discord`, link: `https://store.ciscomodifications.com/discord` }
     ]
 
 };
