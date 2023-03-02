@@ -1,5 +1,5 @@
 # Ciscobot API
-This is a base template including Discord login for Dark Bot (1.3+). Those of you who are developers looking for more out of Dark Bot can feel free to use this as needed.
+This is a base template including Discord login for Cisco Bot (1.3+). Those of you who are developers looking for more out of Dark Bot can feel free to use this as needed.
 
 # Installation
 - Drag the `Ciscobot API` folder into your `extensions` folder for Darkbot.
